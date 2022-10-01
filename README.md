@@ -1,4 +1,12 @@
-### Hi there 👋 
+### Hi there 👋 I'm
+```
+.____    .__             ___.            __                 
+|    |   |__| ____   ____\_ |__ ___.__._/  |_  ____   ______
+|    |   |  |/  _ \ /    \| __ <   |  |\   __\/ __ \ /  ___/
+|    |___|  (  <_> )   |  \ \_\ \___  | |  | \  ___/ \___ \ 
+|_______ \__|\____/|___|  /___  / ____| |__|  \___  >____  >
+        \/              \/    \/\/                \/     \/ 
+```
 <!--
 **lionbytes/lionbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
