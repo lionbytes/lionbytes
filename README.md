@@ -1,4 +1,4 @@
-![cover](https://lionbytes.net/1500x500-v2.png)
+![cover](https://lionbytes.net/1500x500-v2-2.png)
 
 
 
