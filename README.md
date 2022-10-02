@@ -1,3 +1,8 @@
+![cover](https://lionbytes.net/1500x500-v2.png)
+
+
+
+<!--
 ### Hi there 👋
 ```
 .____    .__             ___.            __                 
@@ -7,7 +12,6 @@
 |_______ \__|\____/|___|  /___  / ____| |__|  \___  >____  >
         \/              \/    \/\/                \/     \/ 
 ```
-<!--
 **lionbytes/lionbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
