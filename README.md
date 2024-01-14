@@ -1,7 +1,6 @@
-![cover](https://lionbytes.net/1500x500-v2-2.png)
-
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
+![cover](https://lionbytes.net/1500x500-v2-2.png)
 
 
 <!--
